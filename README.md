@@ -1,15 +1,6 @@
-# appengine-java-quickstart
+# Projet original: appengine-java-quickstart de Zenika
 
 ## Usage
-
-### Clone 
-
-Clone this repository using
-
-```
-git clone https://github.com/jlandure/appengine-java-quickstart
-cd appengine-java-quickstart
-```
 
 ### Launch
 
